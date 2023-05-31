@@ -4,3 +4,4 @@ npm install -g @angular/cli
 npm i yarn
  npm i primeng@16.0.0-rc.2
  ng add @angular/material 
+	
