@@ -1,4 +1,5 @@
 # Testing_Angular_Netcore
+
 npm install -g @angular/cli
  Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 npm i yarn
