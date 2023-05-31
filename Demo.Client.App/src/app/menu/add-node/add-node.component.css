@@ -1,0 +1,14 @@
+.top-node {
+    position: absolute;
+    left: 75%;
+    margin-left: 4px;
+    top: 10%;
+  }
+  
+  .add-btn {
+    cursor: pointer;
+    position: fixed;
+    left: 80%;
+    margin-top: -14px;
+  }
+  

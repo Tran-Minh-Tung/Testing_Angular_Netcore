@@ -1,0 +1,22 @@
+.example-tree-invisible {
+    display: none;
+  }
+  
+  .example-tree ul,
+  .example-tree li {
+    margin-top: 0;
+    margin-bottom: 0;
+    list-style-type: none;
+  }
+  
+  .mat-tree-position {
+      position: fixed;
+      top: 15%;
+  }
+
+  .content-menu{
+    position: absolute;
+    left: 20%;
+    
+  }
+
